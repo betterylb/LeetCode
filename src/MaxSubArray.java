@@ -27,19 +27,30 @@ public class MaxSubArray{
 
     /**
      * 动态规划算法，动态规划表达式
-     * sum[i]=
-     *
+     * 设sum[i]为以第i个元素结尾且和最大的连续子数组
+     * sum[i]={
+     *         max{sum[i-1]+ nums[i], nums[i]},  if i > 0;
+     *         nums[i],                          if i=0;
+     *        }
      */
     public int dpSolution(int[] nums){
+        int sum = nums[0];
+        int n = nums[0];
         for(int i=0; i < nums.length; i++){
-
+            if(n>0) n+=nums[i];
+            else    n=nums[i];
+            sum = Integer.max(sum, n);
         }
         return max;
     }
 
     /**
      * 分治法求解，递归的方式
-     *
+     * 递归分三步,maxSum(left,right)=max{left+right, maxSum(left, median), maxSum(median+1,right)}
+     * 计算left+right时考虑：
+     * (1)right < left，子数组空
+     * (2)right = left, 子数组只有一个元素
+     * (3)right > left, 正常,分别计算左右最大值
      * @param nums
      * @return
      */
