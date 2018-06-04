@@ -17,25 +17,8 @@ public class MaxSubArray{
         return max;
     }
 
-    //扫描法，复杂度O(n)
-    public int scanSolution(int[] nums){
-        for(int i=0; i < nums.length; i++){
-            int current=nums[0];
-            int sum=nums[0];
-            //我们考虑如果全是负数，那么返回最大的负数，如果最后的和为正，那么就使用扫描法
-            for(i=1;i<nums.length;i++) {
-                if(current<0)current=nums[i];//当前数小于0 肯定会舍去（否则将会影响接下来的和），换为下一个数
-                else current+=nums[i];//如果当前数不小于0，那么他会对接下来的和有积极影响
-                if(current>sum)sum=current;//这里既实现了负数返回最大也实现了扫描法
-                //这里其实已经隐式的列举了所有可能，保留了所有可能的最大值
-            }
-            return sum;
-        }
-        return max;
-    }
-
     /**
-     * 动态规划算法，动态规划表达式
+     * 动态规划算法，动态规划表达式，也就是《编程珠玑》的8.4节扫描法
      * 设sum[i]为以第i个元素结尾且和最大的连续子数组
      * sum[i]={
      *         max{sum[i-1]+ nums[i], nums[i]},  if i > 0;
