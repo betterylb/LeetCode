@@ -15,15 +15,25 @@ import java.util.*;
 
 public class LongestSubstring_3 {
     public static void main(String[] args){
-        List<Integer> a = new LinkedList<>(Arrays.asList(1,2,3,4));
-        System.out.println(a);
+//        List<Integer> a = new LinkedList<>(Arrays.asList(1,2,3,4));
+//        System.out.println(a);
+        LongestSubstring_3 a = new LongestSubstring_3();
+        System.out.println(a.lengthOfLCS("abba"));
     }
 
     public int lengthOfLCS(String s) {
-        for(int i=0; i<s.length(); i++){
+        int max = 0;
+        Map<Character, Integer> map = new HashMap<>(); // current index of character
+        // try to extend the range [i, j]
+        for (int i = 0, j = 0; i < s.length(); i++) {
             char sub = s.charAt(i);
+            if (map.containsKey(sub)) {
+                j = Math.max(map.get(sub)+1, j);
+            }
+            max = Integer.max(max, j - i + 1);
+            map.put(sub, i);
         }
-        return 0;
+        return max;
     }
 
     //暴力解法超时,简单减少最开始循环勉强通过
