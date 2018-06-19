@@ -8,7 +8,7 @@
  解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
  */
 
-public class MaxSubArray_53 {
+public class L53_MaxSubArray {
     public int max = Integer.MIN_VALUE;
 
     //暴力算法，直接计算，复杂度O(n^2)
@@ -85,7 +85,7 @@ public class MaxSubArray_53 {
 
     public static void main(String[] args){
         int[] nums = {-1,2,-3,-4,5};
-        MaxSubArray_53 results = new MaxSubArray_53();
+        L53_MaxSubArray results = new L53_MaxSubArray();
         System.out.println(results.reduceSolution(nums, 0, nums.length-1));
     }
 }
