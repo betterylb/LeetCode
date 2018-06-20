@@ -14,11 +14,12 @@
 
 import javafx.scene.transform.MatrixType;
 
+import java.util.Arrays;
 import java.util.HashMap;
 
 public class L5_LongestPalindrome {
     public static void main(String[] args){
-        System.out.println(midExpansion("babad"));
+        System.out.println(manacherAlgorithm("civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth"));
     }
 
 
@@ -77,5 +78,51 @@ public class L5_LongestPalindrome {
             right++;
         }
         return right-left-1;
+    }
+
+    /**
+     * Manacher’s Algorithm,时间复杂度O(n)
+     * @param s
+     * @return
+     */
+    public static String manacherAlgorithm(String s){
+        String T = preProccess(s);
+        int n = T.length();
+        int[] P = new int[n];
+        int center=0, right=0;
+
+        for(int i=1; i<n-1; i++){
+            int j = 2*center - i;
+            P[i] = (right > i) ? Integer.min(right-i, P[j]) : 0;
+
+            while(T.charAt(i+P[i]+1) == T.charAt(i-P[i]-1)){
+                P[i]++;
+            }
+
+            if(i + P[i] > right){
+                center = i;
+                right = i + P[i];
+            }
+        }
+
+        int index = 0, max = 0;
+        for(int i=1; i<n-1; i++){
+            if(P[i] > max){
+                max = P[i];
+                index = i;
+            }
+        }
+        int start = (index-max-1)/2;
+        return s.substring(start, start + max);
+    }
+
+    static String preProccess(String s){
+        if(s.length() == 0) return "^$";
+        String ret = "^";
+        for(int i=0; i<s.length(); i++){
+            ret += "#" + s.substring(i,i+1);
+        }
+        ret += "#$";
+        return ret;
     }
 }
