@@ -39,8 +39,12 @@ public class L53_MaxSubArray {
         int sum = nums[0];
         int n = nums[0];
         for(int i=0; i < nums.length; i++){
-            if(n>0) n+=nums[i];
-            else    n=nums[i];
+            if(n>0) {
+                n+=nums[i];
+            }
+            else {
+                n=nums[i];
+            }
             sum = Integer.max(sum, n);
         }
         return max;
