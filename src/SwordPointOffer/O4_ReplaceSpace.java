@@ -1,6 +1,6 @@
 package SwordPointOffer;
 
-public class ReplaceSpace {
+public class O4_ReplaceSpace {
     public static String replace(StringBuffer str){
         int p1 = str.length()-1;
         for(int i = 0; i <= p1; i++){
