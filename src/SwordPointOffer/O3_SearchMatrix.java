@@ -1,6 +1,6 @@
 package SwordPointOffer;
 
-public class SearchMatrix {
+public class O3_SearchMatrix {
     public static boolean search(int[][] matrix, int target){
         if(matrix.length == 0 || matrix == null || matrix[0].length == 0){
             return false;
