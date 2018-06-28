@@ -3,7 +3,7 @@ package SwordPointOffer;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class ReversePrintList {
+public class O5_ReversePrintList {
     public static ArrayList<Integer> printList(ListNode listNode){
         ArrayList<Integer> a = new ArrayList<>();
         if(listNode !=null){
