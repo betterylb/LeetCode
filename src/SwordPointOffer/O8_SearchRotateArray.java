@@ -20,7 +20,7 @@ public class O8_SearchRotateArray {
                 right = mid;
             }
         }
-        return array[mid];
+        return array[left];
     }
 
     private static int minInOrder(int[] array, int left, int right){
@@ -32,7 +32,7 @@ public class O8_SearchRotateArray {
     }
 
     public static void main(String[] args){
-        int[] a = {3,4,5,1,2};
+        int[] a = {1};
         System.out.println(minNumberInRotateArray(a));
     }
 }
