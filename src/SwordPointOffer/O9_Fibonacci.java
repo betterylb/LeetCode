@@ -1,6 +1,6 @@
 package SwordPointOffer;
 
-public class Fibonacci {
+public class O9_Fibonacci {
     public static int reduce(int n){
         if(n<=0){
             return 0;
