@@ -30,6 +30,6 @@ public class O12_PrintNDigits {
 
     public static void main(String[] args){
         O12_PrintNDigits a = new O12_PrintNDigits();
-        a.print1ToMaxOfNDigits(-1);
+        a.print1ToMaxOfNDigits(2);
     }
 }

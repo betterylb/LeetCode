@@ -37,19 +37,19 @@ public class MySort {
         }
     }
 
-    private static void maxHeap(int nodeIndex, int arrayLength, int[] a){
-        int largestIndex = nodeIndex;
-        int left = 2*nodeIndex+1;
-        int right = 2*nodeIndex +2;
+    private static void maxHeap(int hole, int arrayLength, int[] a){
+        int largestIndex = hole;
+        int left = 2*hole + 1;
+        int right = 2*hole + 2;
         if(left < arrayLength && a[largestIndex] < a[left]){
             largestIndex = left;
         }
         if(right < arrayLength && a[largestIndex] < a[right]){
             largestIndex = right;
         }
-        if(largestIndex != nodeIndex){
-            int tmp = a[nodeIndex];
-            a[nodeIndex] = a[largestIndex];
+        if(largestIndex != hole){
+            int tmp = a[hole];
+            a[hole] = a[largestIndex];
             a[largestIndex] = tmp;
             maxHeap(largestIndex, a.length, a);
         }

@@ -44,9 +44,9 @@ public class O11_Power {
             result *= base;
         }
 
-        if(exponent < 0){
-            result = 1.0/result;
-        }
+//        if(exponent < 0){
+//            result = 1.0/result;
+//        }
 
         return result;
 
@@ -54,7 +54,7 @@ public class O11_Power {
 
     public static void main(String[] args){
         double a = 3;
-        System.out.println(reducePower(0, 0));
+        System.out.println(reducePower(2, 3));
         System.out.println(Integer.toBinaryString(-4));
     }
 }
