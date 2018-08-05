@@ -13,34 +13,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O10_BitCalc.java" line="19" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O11_Power.java" line="4" />
     <bookmark url="file://$PROJECT_DIR$/src/PhoneChange.java" line="30" />
+    <bookmark url="file://$PROJECT_DIR$/src/RollString.java" line="13" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe0b99e-2f87-4346-8da4-4b07801f359e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Observer/Subject.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/Duck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/DuckCall.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/FlyBehavior.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/FlyNoWay.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/FlyRocketPowered.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/FlyWithWings.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/MallardDuck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/MiniDuckSimulator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/ModelDuck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/MuteQuack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/Quack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/QuackBehavior.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeaderFirst/Strategy/Squeak.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PhoneChange.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O13_DelLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O16_ReverseList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O19_MirrorBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TraceTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/RollString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SocialRecommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SplitNum.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MySort.java" afterPath="$PROJECT_DIR$/src/MySort.java" />
-      <change beforePath="$PROJECT_DIR$/src/SwordPointOffer/O11_Power.java" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O11_Power.java" />
-      <change beforePath="$PROJECT_DIR$/src/SwordPointOffer/O12_PrintNDigits.java" afterPath="$PROJECT_DIR$/src/SwordPointOffer/O12_PrintNDigits.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,97 +38,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MySort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MySort.java">
+      <file leaf-file-name="SplitNum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SplitNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3933">
-              <caret line="188" column="5" lean-forward="false" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+            <state relative-caret-position="-368">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocialRecommand.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SocialRecommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="docComment;method#insertSort#0;class#MySort#0" expanded="false" />
-                <element signature="docComment;method#mergeSort#0;class#MySort#0" expanded="false" />
-                <element signature="docComment;method#merge#0;class#MySort#0" expanded="false" />
-                <element signature="docComment;method#shellSort#0;class#MySort#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O6_RebuildBinTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O6_RebuildBinTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="4" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O5_ReversePrintList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O5_ReversePrintList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O12_PrintNDigits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O12_PrintNDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O13_DelLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O13_DelLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O3_SearchMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O3_SearchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O15_FindKthToTail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="O16_ReverseList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O16_ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraceTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TraceTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4416">
-              <caret line="192" column="5" lean-forward="false" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -168,9 +75,12 @@
       <find>UnderflowException</find>
       <find>；</find>
       <find>＞</find>
+      <find>currentDecr</find>
+      <find>s2</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
+      <replace>cur</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,11 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/L10_RegexMatch.java" />
-        <option value="$PROJECT_DIR$/src/Bishi.java" />
-        <option value="$PROJECT_DIR$/src/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/L53_MaxSubArray.java" />
-        <option value="$PROJECT_DIR$/src/CreateGroup.java" />
         <option value="$PROJECT_DIR$/src/KMP.java" />
         <option value="$PROJECT_DIR$/src/L5_LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/LongestDuplicate.java" />
@@ -235,6 +140,11 @@
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.java" />
         <option value="$PROJECT_DIR$/src/TraceTree.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O16_ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/RollString.java" />
+        <option value="$PROJECT_DIR$/src/SocialRecommand.java" />
+        <option value="$PROJECT_DIR$/src/Kne.java" />
+        <option value="$PROJECT_DIR$/src/a03.java" />
+        <option value="$PROJECT_DIR$/src/SplitNum.java" />
       </list>
     </option>
   </component>
@@ -245,8 +155,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1973" />
-    <option name="y" value="54" />
+    <option name="x" value="149" />
+    <option name="y" value="113" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -266,10 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,16 +189,13 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TraceTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.O12_PrintNDigits">
+  <component name="RunManager" selected="Application.SplitNum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -329,39 +233,6 @@
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="HeaderFirst.Strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="HeaderFirst.Strategy.MiniDuckSimulator" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MySort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -408,9 +279,37 @@
       <module name="LeetCode" />
       <envs />
     </configuration>
-    <configuration name="PhoneChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RollString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PhoneChange" />
+      <option name="MAIN_CLASS_NAME" value="RollString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="SocialRecommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SocialRecommand" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="SplitNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SplitNum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -498,19 +397,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxSubArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PhoneChange" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MySort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.O19_MirrorBinaryTree" />
-      <item index="5" class="java.lang.String" itemvalue="Application.O12_PrintNDigits" />
+      <item index="1" class="java.lang.String" itemvalue="Application.O19_MirrorBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.O12_PrintNDigits" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SocialRecommand" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RollString" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SplitNum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.O12_PrintNDigits" />
-        <item index="1" class="java.lang.String" itemvalue="Application.O19_MirrorBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PhoneChange" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MySort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SplitNum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SocialRecommand" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RollString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.O12_PrintNDigits" />
+        <item index="4" class="java.lang.String" itemvalue="Application.O19_MirrorBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +453,8 @@
       <workItem from="1532048924477" duration="3940000" />
       <workItem from="1532262875745" duration="8528000" />
       <workItem from="1532518961730" duration="15848000" />
-      <workItem from="1533129773863" duration="9000" />
+      <workItem from="1533129773863" duration="251000" />
+      <workItem from="1533466678803" duration="9918000" />
     </task>
     <task id="LOCAL-00001" summary="增加最大子序列和的动态规划解法">
       <created>1528033986115</created>
@@ -815,11 +715,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530844827803</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="...">
+      <created>1533129817679</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533129817679</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269904000" />
+    <option name="totallyTimeSpent" value="280064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -831,33 +738,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34820458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24492557" sideWeight="0.5164756" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19891746" sideWeight="0.48352435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33623505" sideWeight="0.48352435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39512855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19756427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25143266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3677911" sideWeight="0.48065904" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36806494" sideWeight="0.48065904" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34912044" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -896,7 +803,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="深信服提前批的笔试题，最长重复字符串，用KMP的next数组解决。" />
     <MESSAGE value="LeetCode正则匹配" />
     <MESSAGE value="KMP算法Java实现。" />
     <MESSAGE value="面试经常碰到的排序算法总结。" />
@@ -921,7 +827,8 @@
     <MESSAGE value="面试题9：斐波拉契数及相关问题" />
     <MESSAGE value="忽略idea" />
     <MESSAGE value="面试题12：打印1到最大的n位数之间的所有数" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试题12：打印1到最大的n位数之间的所有数" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -933,7 +840,7 @@
           <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="72" />
+      <option name="time" value="80" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -946,49 +853,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CreateGroup.java" />
-    <entry file="file://$PROJECT_DIR$/src/LongestDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="25" column="52" lean-forward="false" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/L5_LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#L5_LongestPalindrome#0" expanded="false" />
-            <element signature="method#greedSolution#0;class#L5_LongestPalindrome#0" expanded="false" />
-            <element signature="method#midExpansion#0;class#L5_LongestPalindrome#0" expanded="false" />
-            <element signature="method#expansion#0;class#L5_LongestPalindrome#0" expanded="false" />
-            <element signature="method#manacherAlgorithm#0;class#L5_LongestPalindrome#0" expanded="false" />
-            <element signature="method#preProccess#0;class#L5_LongestPalindrome#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="85" column="36" lean-forward="true" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgram/SearchMatrix.java" />
     <entry file="file://$PROJECT_DIR$/src/L53_MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -1294,14 +1158,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.kt" />
-    <entry file="file://$PROJECT_DIR$/src/TraceTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4416">
-          <caret line="192" column="5" lean-forward="false" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -1315,6 +1171,67 @@
         <state relative-caret-position="230">
           <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TraceTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="192" column="5" lean-forward="false" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-978">
+          <caret line="2104" column="15" lean-forward="false" selection-start-line="2104" selection-start-column="15" selection-end-line="2104" selection-end-column="15" />
+          <folding>
+            <element signature="e#78006#78007#0" expanded="false" />
+            <element signature="e#78050#78051#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RollString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SplitNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocialRecommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
