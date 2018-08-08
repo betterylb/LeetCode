@@ -1,3 +1,5 @@
+package WrittenTest.PingDuoDuo0805;
+
 import java.util.Scanner;
 import java.util.HashSet;
 import java.util.Set;

@@ -1,3 +1,5 @@
+package WrittenTest.PingDuoDuo0805;
+
 import java.util.Scanner;
 
 public class RollString {
