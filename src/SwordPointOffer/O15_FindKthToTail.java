@@ -1,5 +1,7 @@
 package SwordPointOffer;
 
+import BaseDataStructure.ListNode;
+
 public class O15_FindKthToTail {
     public ListNode find(ListNode head, int k){
         if (head == null || k == 0){

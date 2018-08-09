@@ -1,5 +1,7 @@
 package SwordPointOffer;
 
+import BaseDataStructure.TreeNode;
+
 public class O19_MirrorBinaryTree {
     public void mirrorTransfer(TreeNode binTree){
         if(binTree == null)

@@ -1,5 +1,7 @@
 package SwordPointOffer;
 
+import BaseDataStructure.TreeNode;
+
 import java.util.HashMap;
 
 public class O6_RebuildBinTree {
@@ -42,11 +44,4 @@ public class O6_RebuildBinTree {
     }
 }
 
-class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x){
-        val = x;
-    }
-}
+

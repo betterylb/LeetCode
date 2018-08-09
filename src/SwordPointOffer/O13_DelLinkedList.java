@@ -1,5 +1,7 @@
 package SwordPointOffer;
 
+import BaseDataStructure.ListNode;
+
 public class O13_DelLinkedList {
     public void deleteNode(ListNode head, ListNode target){
         if(head == null || head.next == null || target == null){

@@ -1,5 +1,7 @@
 package SwordPointOffer;
 
+import BaseDataStructure.ListNode;
+
 public class O16_ReverseList {
     public ListNode reverse(ListNode head){
         if(head == null){

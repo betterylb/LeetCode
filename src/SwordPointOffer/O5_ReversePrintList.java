@@ -3,6 +3,8 @@ package SwordPointOffer;
 import java.util.ArrayList;
 import java.util.Stack;
 
+import BaseDataStructure.ListNode;
+
 public class O5_ReversePrintList {
     public static ArrayList<Integer> printList(ListNode listNode){
         ArrayList<Integer> a = new ArrayList<>();
@@ -30,14 +32,5 @@ public class O5_ReversePrintList {
             tmp = tmp.next;
         }
         System.out.println(printList(a));
-    }
-}
-
-class ListNode {
-    int val;
-    ListNode next = null;
-
-    ListNode(int val) {
-       this.val = val;
     }
 }
