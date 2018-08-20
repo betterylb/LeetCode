@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class MySort {
     public static void quickSort(int l, int r, int[] a){
         if(l>=r) return;
-        int i=l,j=r,m=a[l], t;
+        int i=l, j=r, m=a[l], t;
         int p=l;
         while(i<j) {
             while (i < j && m >= a[i]) p=i++;
@@ -112,7 +112,6 @@ public class MySort {
             else{
                 tmp[i] = A[rightPos++];
             }
-
         }
 
         for(int i=left; i<=right; i++){

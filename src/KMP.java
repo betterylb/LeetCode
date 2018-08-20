@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class KMP {
 
     /**
@@ -42,8 +40,10 @@ public class KMP {
     }
 
     public static void main(String[] args){
-//        int[] next = new int[5];
-//        calc_next("ababc", next);
-        System.out.println(kmp("abcaababc", "abab"));
+        int[] next = new int[8];
+        calc_next("abaabcac", next);
+        for(int i : next){
+            System.out.print(i+ " ");
+        }
     }
 }

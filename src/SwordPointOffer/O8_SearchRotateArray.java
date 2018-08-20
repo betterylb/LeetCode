@@ -4,7 +4,7 @@ public class O8_SearchRotateArray {
     public static int minNumberInRotateArray(int [] array) {
         int left = 0;
         int right = array.length-1;
-        int mid = (left+right)/2;;
+        int mid = (left+right)/2;
         while(array[left] >= array[right]){
             if(right-left == 1){
                 return array[right];

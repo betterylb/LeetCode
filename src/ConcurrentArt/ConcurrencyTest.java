@@ -1,8 +1,11 @@
 package ConcurrentArt;
 
+import java.util.concurrent.ConcurrentLinkedQueue;
+
 public class ConcurrencyTest {
     private static final long count = 1000000000000000000l;
     public static void main(String[] args) throws InterruptedException {
+        ConcurrentLinkedQueue<Integer> s = new ConcurrentLinkedQueue<>();
         concurrency();
         serial();
     }
