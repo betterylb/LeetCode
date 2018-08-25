@@ -85,7 +85,7 @@ public class MySort {
     }
 
     /**
-     * 归并操作，我要原址归并
+     * 归并操作
      * @param A
      * @param left
      * @param center
