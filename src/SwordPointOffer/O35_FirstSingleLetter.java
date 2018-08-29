@@ -2,7 +2,7 @@ package SwordPointOffer;
 
 import java.util.HashMap;
 
-public class FirstSingleLetter {
+public class O35_FirstSingleLetter {
     public static int searchNum(String str){
         int len = str.length();
         int[] records = new int[len];
