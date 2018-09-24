@@ -61,13 +61,17 @@ public class DIce {
         double base = Math.pow(6,n);
         for(int i = 6; i <= 6*n; i++)
             result[i]  = points[flag][i] / base;
-
         return result;
     }
     public static void main(String[] args){
         DIce a = new DIce();
         double[] results = a.reduceSolution(8);
+        double[] r2 = a.reduceSolution(8);
         for(double i:results){
+            System.out.print(i+" ");
+        }
+        System.out.println(" ");
+        for(double i:r2){
             System.out.print(i+" ");
         }
     }

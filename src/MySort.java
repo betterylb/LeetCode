@@ -179,6 +179,18 @@ public class MySort {
         }
     }
 
+    public static <T extends Comparable> void bubbleSort(T[] A){
+        for(int i=0; i<A.length - 1; i++){
+            for(int j=0; j<A.length -j+1; j++){
+                if(A[j].compareTo(A[j+1]) > 0){
+                    T tmp = A[j];
+                    A[j] = A[j+1];
+                    A[j+1] = tmp;
+                }
+            }
+        }
+    }
+
     public static void main(String[] args){
 //        int[] a = null;
         int [] a = {3,2,5,6,1,7,8};

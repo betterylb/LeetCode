@@ -2,28 +2,57 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/.idea/vcs.xml" />
-    <bookmark url="file://$PROJECT_DIR$/src/L5_LongestPalindrome.java" line="97" />
-    <bookmark url="file://$PROJECT_DIR$/src/L10_RegexMatch.java" line="53" />
     <bookmark url="file://$PROJECT_DIR$/src/MySort.java" line="5" />
     <bookmark url="file://$PROJECT_DIR$/src/MySort.java" line="49" />
-    <bookmark url="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" line="34" />
-    <bookmark url="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" line="40" />
+    <bookmark url="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" line="31" />
+    <bookmark url="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" line="37" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O6_RebuildBinTree.java" line="2" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O9_Fibonacci.java" line="83" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O10_BitCalc.java" line="19" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O11_Power.java" line="4" />
-    <bookmark url="file://$PROJECT_DIR$/src/PhoneChange.java" line="30" />
     <bookmark url="file://$PROJECT_DIR$/src/WrittenTest/PingDuoDuo0805/RollString.java" line="15" />
     <bookmark url="file://$PROJECT_DIR$/src/DSAA_JAVA/RebuildHighway.java" line="45" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O21_StackWithMin.java" line="20" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/O35_FirstSingleLetter.java" line="5" />
     <bookmark url="file://$PROJECT_DIR$/src/SwordPointOffer/DIce.java" line="39" />
+    <bookmark url="file://$PROJECT_DIR$/src/L413_ArithmeticSlices.java" line="58" />
+    <bookmark url="file://$PROJECT_DIR$/src/Calculater.java" line="57" />
+    <bookmark url="file://$PROJECT_DIR$/src/L435_EraseOverlapInterval.java" line="16" />
+    <bookmark url="file://$PROJECT_DIR$/src/Tencent/MaxBeishu.java" line="44" />
+    <bookmark url="file://$PROJECT_DIR$/src/MySort.java" line="186" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe0b99e-2f87-4346-8da4-4b07801f359e" name="Default" comment="..">
-      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/DIce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/何海涛编写剑指Offer名企面试官精讲典型编程题.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcurrentArt/QuickEmailToWikiExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L413_ArithmeticSlices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L435_EraseOverlapInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L446_ArithmeticSlices_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L56_MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/BestSaleStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/FirstAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/O45_RestNumInCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/O46_SumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwordPointOffer/O47_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent/MaxBeishu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WaterPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/JingDong/BUhege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/JingDong/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/JingDong/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/NetEase/BanMa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/NetEase/BuyHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrittenTest/NetEase/Selction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ali_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ali_map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlankFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalArguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwordPointOffer/DIce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordPointOffer/DIce.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,25 +70,46 @@
       <FILTER>SwordPointOffer.*</FILTER>
     </SUITE>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FUSProjectUsageTrigger">
     <session id="1934790331">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="4" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -67,9 +117,9 @@
           <entry key="class" value="2" />
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="179" />
+          <entry key="java" value="256" />
           <entry key="png" value="2" />
-          <entry key="vmoptions" value="2" />
+          <entry key="vmoptions" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -78,62 +128,88 @@
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="179" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="256" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16043" />
-          <entry key="PLAIN_TEXT" value="121" />
+          <entry key="JAVA" value="24724" />
+          <entry key="PLAIN_TEXT" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="56" />
-          <entry key="java" value="16043" />
+          <entry key="dummy" value="63" />
+          <entry key="java" value="24724" />
           <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O41_TwoNumWithSum.java">
+        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O32_NumOf1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/RotateString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O30_LeastKNums.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="230">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/DIce.java">
+        <entry file="file://$PROJECT_DIR$/src/MySort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+            <state relative-caret-position="299">
+              <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+              <folding>
+                <element signature="method#quickSort#0;class#MySort#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="1443" column="12" selection-start-line="1443" selection-start-column="12" selection-end-line="1443" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O45_RestNumInCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WaterPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tencent/T3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -160,13 +236,14 @@
       <find>s2</find>
       <find>retainAll</find>
       <find>retain</find>
-      <find>remove</find>
       <find>removeAll</find>
       <find>offer</find>
       <find>popSequence</find>
       <find>int</find>
-      <find>int</find>
       <find>int[]</find>
+      <find>list</find>
+      <find>comparator</find>
+      <find>remove</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -181,36 +258,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/WaitNotify.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/Piped.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/Profiler.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/Mutex.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/TwinsLock.java" />
-        <option value="$PROJECT_DIR$/test/FairAndUnfairTest.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/FairAndUnfairTest.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/Cache.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/MaxAcent.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/BoundedQueue.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentArt/ConcurrencyTest.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O8_SearchRotateArray.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/FindCircle.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O18_HasSubTree.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O37_FindFirstCommonNode.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O17_MergeSortedList.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/PrintMatrixClockwisely.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O21_StackWithMin.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/StackPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O23_BFSPrintTree.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O22_StackPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O24_VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O25_FindPath.java" />
-        <option value="$PROJECT_DIR$/src/BaseDataStructure/RandomListNode.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/CloneLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O27_Convert.java" />
-        <option value="$PROJECT_DIR$/src/SwordPointOffer/O28_Permutaion.java" />
         <option value="$PROJECT_DIR$/src/HuaWei.java" />
         <option value="$PROJECT_DIR$/src/KuoMaxLen.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
@@ -223,7 +270,6 @@
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O34_PrintMinNumber.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/FirstSingleLetter.java" />
-        <option value="$PROJECT_DIR$/src/MySort.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O36_InversedPairs.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O38_CoutOfNum.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/TreeDeepth.java" />
@@ -232,6 +278,37 @@
         <option value="$PROJECT_DIR$/src/SwordPointOffer/O41_TwoNumWithSum.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/RotateString.java" />
         <option value="$PROJECT_DIR$/src/SwordPointOffer/DIce.java" />
+        <option value="$PROJECT_DIR$/src/O45_RestNumInCircle.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/O45_RestNumInCircle.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/O46_SumN.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/O47_Sum.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/BestSaleStock.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/FirstAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/SlideWindow.java" />
+        <option value="$PROJECT_DIR$/src/StringAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/ali_map.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/NetEase/BuyHouse.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/NetEase/Selction.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/NetEase/BanMa.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/JingDong/BUhege.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/JingDong/Map.java" />
+        <option value="$PROJECT_DIR$/src/WrittenTest/JingDong/Main.java" />
+        <option value="$PROJECT_DIR$/src/L413_ArithmeticSlices.java" />
+        <option value="$PROJECT_DIR$/src/L446_L413_ArithmeticSlices_II.java" />
+        <option value="$PROJECT_DIR$/src/ali_array.java" />
+        <option value="$PROJECT_DIR$/src/L446_ArithmeticSlices_II.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgram/Knapsack.java" />
+        <option value="$PROJECT_DIR$/src/ConcurrentArt/QuickEmailToWikiExtractor.java" />
+        <option value="$PROJECT_DIR$/src/Calculater.java" />
+        <option value="$PROJECT_DIR$/src/Interval.java" />
+        <option value="$PROJECT_DIR$/src/L56_MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/L435_EraseOverlapInterval.java" />
+        <option value="$PROJECT_DIR$/src/Tencent/T3.java" />
+        <option value="$PROJECT_DIR$/src/Tencent/MaxBeishu.java" />
+        <option value="$PROJECT_DIR$/src/WaterPool.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/O32_NumOf1.java" />
+        <option value="$PROJECT_DIR$/src/SwordPointOffer/O28_Permutaion.java" />
+        <option value="$PROJECT_DIR$/src/MySort.java" />
       </list>
     </option>
   </component>
@@ -247,8 +324,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1785" />
-    <option name="y" value="233" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="886" />
   </component>
@@ -259,8 +336,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,10 +364,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="linkedlist&#9;PSI&#9;JAVA://java.util.LinkedList" />
+    <property name="SearchEverywhereHistoryKey" value="Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;linkedlist&#9;PSI&#9;JAVA://java.util.LinkedList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535599522430" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537625629766" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -325,31 +402,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DIce">
+  <component name="RunManager" selected="Application.WaterPool">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DIce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordPointOffer.DIce" />
+    <configuration name="Calculater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculater" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordPointOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KMP" />
+    <configuration name="L56_MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L56_MergeIntervals" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxBeishu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tencent.MaxBeishu" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -376,30 +461,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O40_SingleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordPointOffer.O40_SingleNum" />
+    <configuration name="WaterPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaterPool" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordPointOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordPointOffer.RotateString" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordPointOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -435,19 +500,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MaxSubArray" />
-      <item itemvalue="Application.KMP" />
+      <item itemvalue="Application.Calculater" />
+      <item itemvalue="Application.L56_MergeIntervals" />
+      <item itemvalue="Application.MaxBeishu" />
       <item itemvalue="Application.O32_NumOf1" />
-      <item itemvalue="Application.O40_SingleNum" />
-      <item itemvalue="Application.RotateString" />
-      <item itemvalue="Application.DIce" />
+      <item itemvalue="Application.WaterPool" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DIce" />
-        <item itemvalue="Application.RotateString" />
-        <item itemvalue="Application.O40_SingleNum" />
+        <item itemvalue="Application.WaterPool" />
         <item itemvalue="Application.O32_NumOf1" />
-        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.MaxBeishu" />
+        <item itemvalue="Application.L56_MergeIntervals" />
+        <item itemvalue="Application.Calculater" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +569,20 @@
       <workItem from="1534384294886" duration="62487000" />
       <workItem from="1535030266680" duration="21070000" />
       <workItem from="1535250980849" duration="23169000" />
-      <workItem from="1535546361123" duration="8590000" />
+      <workItem from="1535546361123" duration="24492000" />
+      <workItem from="1536133079064" duration="11890000" />
+      <workItem from="1536317503339" duration="9732000" />
+      <workItem from="1536494434392" duration="23682000" />
+      <workItem from="1536647449243" duration="13337000" />
+      <workItem from="1536803880788" duration="1355000" />
+      <workItem from="1536913231355" duration="4886000" />
+      <workItem from="1536976223406" duration="12829000" />
+      <workItem from="1537066035158" duration="14763000" />
+      <workItem from="1537361142909" duration="595000" />
+      <workItem from="1537443261131" duration="592000" />
+      <workItem from="1537493321849" duration="7821000" />
+      <workItem from="1537668385187" duration="1330000" />
+      <workItem from="1537764545399" duration="4928000" />
     </task>
     <task id="LOCAL-00001" summary="增加最大子序列和的动态规划解法">
       <created>1528033986115</created>
@@ -835,7 +913,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535513464552</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="..">
+      <created>1535599599702</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1535599599702</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -847,7 +932,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="510819000" />
+    <option name="totallyTimeSpent" value="634461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -862,7 +947,7 @@
     <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22206303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.245702" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -871,13 +956,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32793522" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48280802" visible="true" weight="0.28475034" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48065904" weight="0.46558705" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48280802" weight="0.3022942" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48065904" weight="0.3954116" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.39406207" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19756427" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19703104" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.517192" side_tool="true" weight="0.3616734" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.491404" weight="0.1659919" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -887,7 +972,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295129" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
@@ -962,11 +1047,18 @@
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tencent/MaxBeishu.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="max" />
+        <watch expression="s.value[4]" />
       </configuration>
     </watches-manager>
   </component>
@@ -975,180 +1067,46 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ConcurrentArt/ConcurrencyTest.java">
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcurrentArt/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="355" column="21" lean-forward="true" selection-start-line="355" selection-start-column="21" selection-end-line="355" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O15_FindKthToTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4459">
-          <caret line="237" column="23" selection-start-line="237" selection-start-column="23" selection-end-line="237" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/LeetCode/SwordPointOffer/O18_HasSubTree.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O18_HasSubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/FindCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseDataStructure/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O37_FindFirstCommonNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O21_StackWithMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O20_PrintMatrixClockwisely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O17_MergeSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O23_BFSPrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O22_StackPopOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="203">
+          <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O24_VerifySquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseDataStructure/RandomListNode.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O26_CloneLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TraceTree.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/BestSaleStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O27_Convert.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/SlideWindow.java" />
+    <entry file="jar://D:/Java/jdk/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="123">
+          <caret line="1182" selection-start-line="1182" selection-end-line="1182" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O40_SingleNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O29_MaxThanHalfNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        <state relative-caret-position="414">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1159,185 +1117,301 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O28_Permutaion.java">
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="238">
+          <caret line="2104" column="32" selection-start-line="2104" selection-start-column="27" selection-end-line="2104" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KMP.java">
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/PingDuoDuo0805/RollString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/PingDuoDuo0805/SocialRecommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/PingDuoDuo0805/SplitNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/PingDuoDuo0805/ChooseCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/NetEase/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11546">
+          <caret line="543" column="7" selection-start-line="543" selection-start-column="7" selection-end-line="543" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2534">
+          <caret line="400" column="36" lean-forward="true" selection-start-line="400" selection-start-column="36" selection-end-line="400" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/JingDong/BUhege.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/NetEase/BanMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/NetEase/Selction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/JingDong/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrittenTest/JingDong/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="59" column="60" lean-forward="true" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L413_ArithmeticSlices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L53_MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L446_ArithmeticSlices_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcurrentArt/QuickEmailToWikiExtractor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgram/Knapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ali_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="73" column="57" lean-forward="true" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+          <folding>
+            <element signature="method#transfer2PostExpr#0;class#Calculater#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596">
+          <caret line="169" column="23" lean-forward="true" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ali_map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlankFinal.java" />
+    <entry file="file://$PROJECT_DIR$/src/FinalArguments.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KuoMaxLen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="23">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/L56_MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="2900" column="22" selection-start-line="2900" selection-start-column="22" selection-end-line="2900" selection-end-column="22" />
+        <state relative-caret-position="92">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O32_NumOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="184" column="31" lean-forward="true" selection-start-line="184" selection-start-column="31" selection-end-line="184" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O31_MaxSumInSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/L435_EraseOverlapInterval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O35_FirstSingleLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/Tencent/MaxBeishu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="575">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O6_RebuildBinTree.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O28_Permutaion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O16_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O8_SearchRotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O40_SingleNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O39_TreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O25_FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O38_CoutOfNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O36_InversedPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="92">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O34_UglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="483">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O33_PrintMinNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/FirstAppearOnce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O5_ReversePrintList.java">
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O35_FirstSingleLetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WaterPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tencent/T3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="1443" column="12" selection-start-line="1443" selection-start-column="12" selection-end-line="1443" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O32_NumOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O45_RestNumInCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MySort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="108" column="29" selection-start-line="77" selection-start-column="4" selection-end-line="119" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
           <folding>
             <element signature="method#quickSort#0;class#MySort#0" />
-            <element signature="method#heapSort#0;class#MySort#0" />
-            <element signature="method#maxHeap#0;class#MySort#0" />
-            <element signature="docComment;method#insertSort#0;class#MySort#0" />
-            <element signature="method#insertSort#0;class#MySort#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O41_TwoNumWithSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/RotateString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/O30_LeastKNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordPointOffer/DIce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
         </state>
       </provider>
     </entry>

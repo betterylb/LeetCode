@@ -1,8 +1,5 @@
 package DynamicProgram;
 
-import java.util.Arrays;
-import java.util.Map;
-
 /**
  *动态规划背包问题，NP完备的，子序列和可以规约到其中,是子问题(0-1背包问题）
  *类似的还有硬币找零问题(无限背包问题)
@@ -78,8 +75,6 @@ public class Knapsack {
 
         return opt[W];
     }
-
-
 
     public static void main(String[] args){
         int[] values = {28,22,18,6,1};
